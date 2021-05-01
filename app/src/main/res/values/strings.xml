@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Pokémon Api</string>
+    <string name="Title">Title</string>
+    <string name="Weight">Weight</string>
+    <string name="Height">Height</string>
+</resources>
